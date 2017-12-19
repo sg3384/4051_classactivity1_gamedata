@@ -1,4 +1,4 @@
-# HUDK 4051 Class 1 Revision Activity
+# Game Data Activity
 
 The data in this repository comes from an online language game. Students complete levels by conversing with each other through written messages in a language other than their native tongue using online avatars, prompts for conversation topics are provided by the game's AI. The game matches students of similar ability within the same level. Students earn "Fluency Cash" for using correct grammar and syntax which they can use to change aspects of their avatar. For example, clothing and physical attributes, and also "skills" they are interested in working on such as "past tense", "dining vocabulary".  
 
